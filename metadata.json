@@ -1,0 +1,5 @@
+{
+  "name": "Student Attendance Management",
+  "description": "A comprehensive student attendance management application with role-based access for faculty, mentors, and HODs. The app uses localStorage for data persistence and features smart attendance marking, automated notifications, and an admin dashboard.",
+  "requestFramePermissions": []
+}

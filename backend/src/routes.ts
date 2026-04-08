@@ -9,7 +9,7 @@ import {
   LeaveApplication,
   MentorAlert,
   CallLog
-} from './models';
+} from './models.js';
 
 export const router = express.Router();
 

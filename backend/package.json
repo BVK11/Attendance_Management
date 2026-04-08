@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "tsx watch src/server.ts",
-    "start": "node dist/server.js",
+    "start": "npm run build && node dist/server.js",
     "seed": "tsx src/seed.ts"
   },
   "dependencies": {
